@@ -1,4 +1,4 @@
-## Homework Assignment Number: 
+# [Assignment Name Goes Here] 
 
 ## Authors
 
